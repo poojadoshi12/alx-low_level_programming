@@ -1,3 +1,7 @@
+/**
+ * main -entry 
+ * return 
+ */
 #include <stdio.h>
 int main(void)
 {

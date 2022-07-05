@@ -1,3 +1,7 @@
+/**
+ * main-entry 
+ * return: 0after printing
+ */ 
 #include <stdio.h>
 int main(void)
 {
