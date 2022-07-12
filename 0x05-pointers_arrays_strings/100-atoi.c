@@ -1,4 +1,5 @@
-#include "main.h"
+#include"main.h"
+#include <stdio.h>
 /**
  * _atoi - convert to integer
  * @s: pointer to character string
@@ -11,7 +12,7 @@ int _atoi(char *s)
 	unsigned int num;
 	char *temp;
 
-	*temp = s;
+	temp = s;
 	num = 0;
 	sign = 1;
 	while (*temp != '\n' && (*temp < '0' || *temp > '9'))
