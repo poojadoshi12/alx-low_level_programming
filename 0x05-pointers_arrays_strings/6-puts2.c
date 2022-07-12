@@ -3,7 +3,7 @@
 /**
  * puts2 -> puts2 function
  * @str: str para
- * /
+ */
 void puts2(char *str)
 {
 	int len, i;
