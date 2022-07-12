@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * strcpy - copies the string pointed
+ * _strcpy - copies the string pointed
  * @dest: destiny
  * @src: copy
- *
  * Return: return
  */
 char *_strcpy(char *dest, char *src)
